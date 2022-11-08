@@ -2003,16 +2003,16 @@ section {
 }
 
 .blog .sidebar .categories ul a {
-  color: #7e886b;
+  color: #010104;
 }
 
-.blog .sidebar .categories ul a:hover {
+/* .blog .sidebar .categories ul a:hover {
   color: #94c045;
-}
+} */
 
 .blog .sidebar .categories ul a span {
   padding-left: 5px;
-  color: #a3ab95;
+  color: #010104;
   font-size: 14px;
 }
 
@@ -2032,7 +2032,7 @@ section {
 }
 
 .blog .sidebar .recent-posts h4 a {
-  color: #070806;
+  color: #010104;
   transition: 0.3s;
 }
 
